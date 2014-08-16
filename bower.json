@@ -1,0 +1,21 @@
+{
+  "name": "inuitless-mixins",
+  "version": "0.2.3",
+  "homepage": "https://github.com/inuitless/tools.mixins",
+  "authors": [
+    "Harry Roberts <harry@csswizardry.com>",
+    "Nicolas Carlo <nicolascarlo.espeon@gmail.com>"
+  ],
+  "description": "inuitcss’ default mixins",
+  "main": "tools.mixins.less",
+  "keywords": [
+    "inuitcss",
+    "oocss",
+    "css",
+    "less"
+  ],
+  "license": "Apache",
+  "dependencies": {
+    "inuitless-defaults": "~0.2.0"
+  }
+}
